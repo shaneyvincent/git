@@ -1,2 +1,1 @@
-hello world
-again?
+puts 'Hello World'
